@@ -1,5 +1,5 @@
 # Description
-build using tutorial from http://thenewstack.io/make-a-restful-json-api-go/
+built using tutorial from http://thenewstack.io/make-a-restful-json-api-go/
 
 # operations
 ## list all
