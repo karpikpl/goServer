@@ -10,3 +10,9 @@ build using tutorial from http://thenewstack.io/make-a-restful-json-api-go/
 
 ## add todo
 `curl -v -H "Content-Type: application/json" -d "{\"name\":\"bla\"}" http://localhost:8080/todos`
+
+# Next steps
+* Lots of refactoring!
+* Create packages for several of these files, such as some JSON helpers, decorators, handlers, and more.
+* Testing…
+* Thread safety? in-memory DB?
